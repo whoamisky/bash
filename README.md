@@ -1,7 +1,7 @@
 #bash+rsyslog记录操作命令
 ##From:
 ###http://evilabandon.tumblr.com/page/19
-
+###http://crazyof.me/blog/archives/1891.html
 
 #1、修改源码
 ````
